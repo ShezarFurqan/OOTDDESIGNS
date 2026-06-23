@@ -3,8 +3,7 @@
 ootddesigns is a premium, highly visual e-commerce and lookbook platform tailored for modern fashion, apparel, and curated "Outfit of the Day" trends. Built with a sharp focus on minimal aesthetics, sleek typography, and high-contrast layouts, the platform bridges the gap between high-fashion editorial design and seamless digital retail.
 
 ## 🚀 Live Demo
-🔗 **[Launch Live Project](ootddesigns.vercel.app)** *(Replace this with your live Vercel or custom domain link)*
-
+🔗 **[Launch Live Project](ootddesigns.vercel.app)** 
 ---
 
 ## ✨ Key Features
